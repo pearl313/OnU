@@ -1,0 +1,3 @@
+interface filtering {
+  nutrientFiltering: ingredientItem[];
+}
